@@ -1,6 +1,7 @@
 # Is there a Giants game today?
 
 ![SF Giants logo](http://www.pabloestrada.us/sf-giants.png?rm)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpabloest%2Farethegiantsplaying.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpabloest%2Farethegiantsplaying?ref=badge_shield)
 
 ## Getting the code
 
@@ -45,3 +46,7 @@ You can add your name to it! :)
 * Offline support
 * Fun daily messages and graphics
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpabloest%2Farethegiantsplaying.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpabloest%2Farethegiantsplaying?ref=badge_large)
